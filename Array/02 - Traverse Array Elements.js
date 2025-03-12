@@ -7,7 +7,7 @@ const arr = [47, 105, 78, 63, 99, 14, 55, 99];
 
 // Simple Traverse
 for(let i = 0; i < arr.length; i++){
-    // console.log(arr[i]);
+    console.log(arr[i]);
 }
 
 // Array Sum & Avg
